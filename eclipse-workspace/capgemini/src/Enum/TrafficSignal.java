@@ -1,4 +1,4 @@
-package enums;
+package Enum;
 
 public enum TrafficSignal {
 	// This will call enum constructor with one

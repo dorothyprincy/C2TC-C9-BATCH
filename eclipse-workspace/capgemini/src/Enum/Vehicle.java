@@ -1,4 +1,4 @@
-package enums;
+package Enum;
 
 public enum Vehicle {
 	//Constants with values

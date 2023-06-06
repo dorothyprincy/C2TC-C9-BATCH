@@ -1,4 +1,4 @@
-package annotations;
+package Annotation;
 
 import java.lang.reflect.Method;
 

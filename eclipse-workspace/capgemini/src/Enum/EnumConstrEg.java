@@ -1,4 +1,4 @@
-package enums;
+package Enum;
 
 public class EnumConstrEg {
 	public static void main(String args[])
