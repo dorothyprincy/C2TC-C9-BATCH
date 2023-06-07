@@ -3,7 +3,8 @@ package day18.SetInterface;
 public class Hash {
 	public static void main(String[] args)
     {
-        // Creating an
+    
+		// Creating an
         HashSet<String> hs = new HashSet<String>();
   
         // Adding elements to above Set

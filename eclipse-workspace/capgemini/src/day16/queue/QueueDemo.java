@@ -3,6 +3,7 @@ package day16.queue;
 import java.util.*;
 
 public class QueueDemo {
+
 	public static void main(String[] args) {
 		Queue<Integer> q=new LinkedList<>();
 		// add elements {0,1,2,3,4}

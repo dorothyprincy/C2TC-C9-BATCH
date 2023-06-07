@@ -3,7 +3,7 @@ package day16.vector;
 import java.util.*;
 
 public class VectorDemo {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		Vector<String> animals=new Vector<>();
 		animals.add("Goat");
 		animals.add("Dog");

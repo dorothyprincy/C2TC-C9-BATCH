@@ -3,7 +3,7 @@ package day17.hw;
 import java.util.*;
 
 public class StackDemo {
-	public static void main(String[] args)
+public static void main(String[] args)
     {
  
         // Default initialization of Stack

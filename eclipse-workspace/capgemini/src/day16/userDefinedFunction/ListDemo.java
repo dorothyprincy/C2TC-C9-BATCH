@@ -3,7 +3,7 @@ package day16.userDefinedFunction;
 import java.util.*;
 
 public class ListDemo {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		List<student> studentlist=new ArrayList<student>();
 		
 		student s1 = new student(11, "dorothy", 45);

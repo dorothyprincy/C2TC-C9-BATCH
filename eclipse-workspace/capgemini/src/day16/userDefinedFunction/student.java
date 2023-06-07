@@ -1,7 +1,7 @@
 package day16.userDefinedFunction;
 
 public class student implements Comparable<student>{
-	private int rollNo;
+    private int rollNo;
 	private String name;
 	private float pr;
 	public int getRollNo() {

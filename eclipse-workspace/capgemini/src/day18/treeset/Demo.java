@@ -3,7 +3,7 @@ package day18.treeset;
 import java.util.*;
 
 public class Demo {
-	public static void main(String[] args)
+public static void main(String[] args)
     {
         // Creating an object of NavigableSet
         // with reference to TreeSet class

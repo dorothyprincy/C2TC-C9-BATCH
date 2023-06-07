@@ -1,7 +1,7 @@
 package day17.PriorityQueue;
 
 public class Solution {
-	static class Node {
+static class Node {
 	    int data;
 	     
 	    // Lower values indicate higher priority

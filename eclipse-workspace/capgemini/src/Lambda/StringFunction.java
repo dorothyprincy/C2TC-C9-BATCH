@@ -1,6 +1,7 @@
 package Lambda;
 
 public interface StringFunction {
-	 String run(String str);
+	 
+	String run(String str);
 
 }
