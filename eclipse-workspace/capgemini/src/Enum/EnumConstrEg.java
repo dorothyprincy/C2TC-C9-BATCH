@@ -1,6 +1,7 @@
 package Enum;
 
 public class EnumConstrEg {
+	
 	public static void main(String args[])
     {
         // let's print name of each enum and there action

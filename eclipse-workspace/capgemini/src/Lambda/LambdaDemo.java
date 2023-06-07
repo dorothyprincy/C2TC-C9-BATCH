@@ -1,6 +1,7 @@
 package Lambda;
 
 public class LambdaDemo {
+	
 	public static void main(String[] args) {
 	    StringFunction exclaim = (s) -> s + "!";
 	    StringFunction ask = (s) -> s + "?";

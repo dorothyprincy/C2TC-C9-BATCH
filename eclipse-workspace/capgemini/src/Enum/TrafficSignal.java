@@ -1,6 +1,7 @@
 package Enum;
 
 public enum TrafficSignal {
+	
 	// This will call enum constructor with one
     // String argument
     RED("STOP"), GREEN("GO"), ORANGE("SLOW DOWN");
